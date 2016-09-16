@@ -1,5 +1,5 @@
 #React Template
-[Inspired by Blake Williams and his Article on Setting Up React + Webpack](https://robots.thoughtbot.com/setting-up-webpack-for-react-and-hot-module-replacement)
+[Inspired by Dan Barrett and his Article on Getting started with webpack and React, ES6 style](http://humaan.com/getting-started-with-webpack-and-react-es6-style/)
 
 ## Igemwoya
 This is a barebones, no-fuss React v15.3.1 template.
