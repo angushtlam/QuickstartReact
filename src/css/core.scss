@@ -1,6 +1,7 @@
-$color-accent: #F00;
+$color-accent: #FFAAA2;
 $std-padding: 10px;
 
 body {
-	background-color: $color-accent;
+	color: $color-accent;
+	background: url("../img/bg.jpg");
 }
