@@ -1,7 +1,20 @@
-$color-accent: #FFAAA2;
+// SCSS is amazing; you can declare variables!
+$color-accent: #333;
 $std-padding: 10px;
+$favorite-font: "Comic Sans MS", cursive, sans-serif;
 
 body {
 	color: $color-accent;
 	background: url("../img/bg.jpg");
+}
+
+h1 {
+	font-family: $favorite-font;
+	font-size: 60px;
+}
+
+#logo {
+	position: absolute;
+	width: 100%;
+	height: auto;
 }
