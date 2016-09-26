@@ -1,4 +1,4 @@
-#React Template
+#QuickstartReact
 [Inspired by Dan Barrett and his Article on Getting started with webpack and React, ES6 style](http://humaan.com/getting-started-with-webpack-and-react-es6-style/)
 
 ## Igemwoya
